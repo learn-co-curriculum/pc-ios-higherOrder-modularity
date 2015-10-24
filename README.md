@@ -16,7 +16,7 @@ WIth object orientation, or seperation of concerns, the like funcality is distin
 
 -> *What other systems can you think of that adhere to this principle?  What systems can you think of that might explicitly decide against this principle? In nature?  In government?*  
 
-*Do you think the fincancil crisis?*
+*What about the financial crisis?  How could this be related to seperation of concerns?*
 
 **Write your responses in a question on Learn.**
 
