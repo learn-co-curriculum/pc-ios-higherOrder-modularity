@@ -14,7 +14,7 @@ More importantly, what if it doesn't work, and you have to fix it or take it awa
 
 WIth object orientation, or seperation of concerns, the like funcality is distinct, or modular, relative to how everything else in facebook works.  This gives you the flexibility to add it, fix it, or remove it, while preserving the integrity of the rest of your code base.  
 
---> *What other systems can you think of that adhere to this principle?  What systems can you think of that might explicitly decide against this principle? In nature?  In government?*  
+-> *What other systems can you think of that adhere to this principle?  What systems can you think of that might explicitly decide against this principle? In nature?  In government?*  
 
 *Do you think the fincancil crisis?*
 
