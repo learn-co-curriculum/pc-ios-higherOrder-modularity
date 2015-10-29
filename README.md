@@ -12,7 +12,7 @@ Imagine you were an engineer at Facebook back in 2009.  This is before the like 
 
 More importantly, what if it doesn't work, and you have to fix it or take it away?  If the like functionality also depended on other functionality, it would likely be extremely difficult to understand the full rammifcations of that addition on your code base.
 
-WIth object orientation, or seperation of concerns, the like funcality is distinct, or modular, relative to how everything else in facebook works.  This gives you the flexibility to add it, fix it, or remove it, while preserving the integrity of the rest of your code base.  
+WIth object orientation, or seperation of concerns, the like functionality is distinct, or modular, relative to how everything else in Facebook works.  This gives you the flexibility to add it, fix it, or remove it, while preserving the integrity of the rest of your code base.  
 
 -> *What other systems can you think of that adhere to this principle?  What systems can you think of that might explicitly decide against this principle? In nature?  In government?*  
 
