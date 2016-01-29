@@ -25,4 +25,4 @@ WIth object orientation, or seperation of concerns, the like functionality is di
 
 
 
-<a href='https://learn.co/lessons/pc-ios-higherOrder-modularity' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/pc-ios-higherOrder-modularity' title='Higer Order Concepts: Seperation of Concerns'>Higer Order Concepts: Seperation of Concerns</a> on Learn.co and start learning to code for free.</p>
